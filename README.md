@@ -1,0 +1,2 @@
+# Customer-Churn prediction
+#In this project on Customer Churn prediction, we examine the Churns which play a negative role in the growth of an organization. The reasons why the Customer leaves the services and products of an organization are very important for providing better user experiences and services for the customers thus it maintains the Customer- Relation Management. Thus, Prediction of the Customer Churn is very important for an organization to sustain itself in the growing technological world.
